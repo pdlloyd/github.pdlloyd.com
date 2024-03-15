@@ -1,2 +1,3 @@
-# pdlloyd.github.io
+# github.pdlloyd.com
+
 GitHub subdomain for pdlloyd.com
